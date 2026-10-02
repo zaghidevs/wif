@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/convert.js": { "maxDuration": 60, "includeFiles": "reference.jpg" },
+    "api/send.js": { "maxDuration": 60 }
+  }
+}
